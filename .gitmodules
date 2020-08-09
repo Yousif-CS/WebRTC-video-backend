@@ -1,0 +1,9 @@
+[submodule "jsoncpp"]
+	path = jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp.git
+[submodule "jwt-cpp"]
+	path = jwt-cpp
+	url = https://github.com/Thalhammer/jwt-cpp
+[submodule "websocketpp"]
+	path = websocketpp
+	url = https://github.com/zaphoyd/websocketpp.git

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yousif/Coding/RedBack/Docker/WebRTCC++/build",
+  "command": "/usr/bin/g++-7   -I../src/WebRTCsrc/include -I../src/websocketpp -I../src/jwt-cpp/include -I../src/boost/boost_1_73_0 -I../src/jsoncpp/include/json -I\"../src/WebSocketRTC/*\"   -Wall -Werror -std=c++14 -g   -o CMakeFiles/main.dir/src/main.cpp.o -c /home/yousif/Coding/RedBack/Docker/WebRTCC++/src/main.cpp",
+  "file": "/home/yousif/Coding/RedBack/Docker/WebRTCC++/src/main.cpp"
+}
+]

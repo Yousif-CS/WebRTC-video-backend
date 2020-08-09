@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Werror -std=c++14 -g   CMakeFiles/main.dir/src/main.cpp.o  -o main src/WebRTCsrc/lib/x64/Release/libwebrtc.a src/jsoncpp/lib/libjsoncpp.a 
